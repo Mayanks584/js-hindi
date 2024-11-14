@@ -1,1 +1,1 @@
-console.log("mayank")
+console.log("mayank") // display on the screen means to print the value
